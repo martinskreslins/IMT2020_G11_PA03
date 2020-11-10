@@ -1,0 +1,12 @@
+{
+  "name": "IMT2020_G11_PA03",
+  "displayName": "IMT2020_G11_PA03",
+  "expo": {
+    "name": "IMT2020_G11_PA03",
+    "slug": "IMT2020_G11_PA03",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
